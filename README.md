@@ -1,2 +1,9 @@
 # P_Web1
 https://icon-sets.iconify.design/
+
+
+consulta api
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI2OWVjOGM0YjkyMTkxM2M2MmMwYTUxNzEwNDA0ODIyMyIsIm5iZiI6MTc4MTE5NzY3Mi41ODUsInN1YiI6IjZhMmFlYjY4Y2FhM2RkZWEyNGExNThhMiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.1NVS3W8ohvM-1RKt5uJwLF88dcSh2ZlQGInEB6fqaVM
+
+chave api
+69ec8c4b921913c62c0a517104048223
